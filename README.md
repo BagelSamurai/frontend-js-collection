@@ -8,7 +8,9 @@ This repository is a collection of all the projects I built while completing the
 A website with a cookie consenter that steals your data, and prevents user from closing the form before they submit it.
 
 * **Key Learnings:** setTimeout, element.style, forms, FormData & .get(), flex-directions, event.preventDefault, toggling classes, 'disabled' attribute
-* 
+
+### Project demo: 
+
 ![Cookie site](demo-1.gif)
 
 
