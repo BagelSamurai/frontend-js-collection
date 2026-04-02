@@ -15,11 +15,11 @@ A website with a cookie consenter that steals your data, and prevents user from 
 
 
 ---
-## 🪙 Project 2: Pumpkin's Perfect Meme Picker
+## 😾😼🙀 Project 2: Pumpkin's Perfect Meme Picker
 
 Use Pumpkin's Perfect Meme Picker to generate a gif reflecting your mood !
 
-* **Key Learnings:** setTimeout, element.style, forms, FormData & .get(), flex-directions, event.preventDefault, toggling classes, 'disabled' attribute
+* **Key Learnings:** for of, import/export modules, radio & checkbox inputs, querySelector, getElementsByClassName, classList.remove, .include(), .filter()
 
 ### Project demo: 
 
