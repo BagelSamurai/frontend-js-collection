@@ -27,3 +27,15 @@ Use Pumpkin's Perfect Meme Picker to generate a gif reflecting your mood !
 
 
 ---
+## 🐦 Project 3: Twimba
+
+Created a functional twitter clone ! User can tweet, like, share and repost.
+
+* **Key Learnings:** conditional style rendering, generating and using UUIDs, CDNs
+
+### Project demo: 
+
+![Twimba](demo-3.gif)
+
+
+---
