@@ -1,4 +1,4 @@
-# Scrimba Essential Javascript course Projects 👨‍🎨
+# Essential Javascript course Projects 👨‍🎨
 
 This repository is a collection of all the projects I built while completing the Scrimba javascript essentials course.
 ---
